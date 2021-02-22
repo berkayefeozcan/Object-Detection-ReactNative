@@ -25,6 +25,6 @@ You can access : https://github.com/theAIGuysCode/Object-Detection-API
 Berkay Efe ÖZCAN , Cumali TOPRAK
 
 ## Uygulamadan Ekran Görüntüleri
-![alt text](https://github.com/berkayefeozcan/Gold-Hunter/blob/main/ss/baslangicEkrani.png) 
-![alt text](https://github.com/berkayefeozcan/Gold-Hunter/blob/main/ss/uploadPhoto.png)
-![alt text](https://github.com/berkayefeozcan/Gold-Hunter/blob/main/ss/resultScreen.png)
+![alt text](https://github.com/berkayefeozcan/Object-Detection-ReactNative/blob/main/ss/baslangicEkrani.png) 
+![alt text](https://github.com/berkayefeozcan/Object-Detection-ReactNative/blob/main/ss/uploadPhoto.png)
+![alt text](https://github.com/berkayefeozcan/Object-Detection-ReactNative/blob/main/ss/resultScreen.png)
